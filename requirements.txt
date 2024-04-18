@@ -1,3 +1,2 @@
-edge-srt-to-speech
 openai
 python-dotenv
